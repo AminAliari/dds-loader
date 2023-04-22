@@ -1,5 +1,5 @@
 # dss-loader
-DSS loader inspired by SOIL and stb_image.
+DSS loader: A modified version of SOIL and stb_image.
 
  supports both compressed and uncompressed formats.
   - DXT1		
